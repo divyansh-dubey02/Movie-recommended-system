@@ -1,2 +1,2 @@
-# Movie-recommended-system
-it recommend movie using cosine similarity and vectorization algorithm
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
